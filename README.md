@@ -15,7 +15,7 @@
 
   GameX is a fully responsive eSports gaming website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://YujiTech.github.io/gamex/"><strong>➥ Live Demo</strong></a>
+  <a href="(https://yujitech.github.io/GameX/)"><strong>➥ Live Demo</strong></a> 
 
 </div>
 
